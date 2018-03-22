@@ -1,3 +1,3 @@
-# Glowy-box-of-lights
+# Glowy Box of Lights
 
 Live coded neopixel, music reacting light box.
